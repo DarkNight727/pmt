@@ -24,9 +24,10 @@
    git clone https://github.com/DarkNight727/pmt.git
 2. Cd into the directory:
    
-
+  ```bash
    cd pmt
-3. Run the program with python:
-
-
+  ```
+3. Run program with python:
+   ```bash
    python3 pmt.py
+   ```
